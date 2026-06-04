@@ -14,6 +14,8 @@ test('Myntra', async ({ page }) => {
    console.log(minPrice);
    const minpricebrand =  
 
+   console.log(minpricebrand)
+
 
 
 });
