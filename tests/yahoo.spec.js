@@ -9,6 +9,7 @@ test('yahoo URL', async ({ page }) => {
         .textContent();
 
     console.log(yahoo);
+    console.log("hello")
 
 });
 
