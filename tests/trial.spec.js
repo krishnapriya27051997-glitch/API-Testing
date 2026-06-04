@@ -16,7 +16,7 @@ test('Myntra', async ({ page }) => {
 
    console.log(minpricebrand)
 
-
+//rsvygfyt
 
 });
 
